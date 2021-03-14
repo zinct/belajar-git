@@ -1,0 +1,11 @@
+Version Control System
+  adalahyang mengelola perubahan dari sebuah dokumen, program komputer, website dan kumpulan informasi lain.
+Mamfaat Version Control Sistem 
+- Sebuah sistem yang mempunyai 'rekaman / snapshot' perubahan pada source code
+- Memungkinkan bekerja berkolaborasi dengan lebih baik
+- Mengetahui siapa saja yang melakukan dan kapan sebuah perubahan terjadi
+- Memungkinkan kita untuk kembali ke keadaan sebelum perubahan (Checkout)
+
+Git
+  Sebuah software untuk mengelola file di dalam folder
+  
