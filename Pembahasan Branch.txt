@@ -1,0 +1,5 @@
+Branch
+Mamfaat Branch
+- Membuat rekaman perubahan tanpa mengganggu jalur utama (Main Branch)
+- Fitur experimental
+- 2 orang mengerjakan repo yang sama
